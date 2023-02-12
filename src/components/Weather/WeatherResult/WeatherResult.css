@@ -1,0 +1,8 @@
+.weather-result ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.weather-result {
+    margin-top: 18px;
+}
